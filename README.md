@@ -5,8 +5,8 @@
 ## Меня зовут Михаил, и я фронтенд-разработчик
 
 **Мой технологический стек:**
-* HTML/CSS
-* Javascript
+* HTML,CSS(SCSS)
+* Javascript,TypeScript
 * React
 
 
