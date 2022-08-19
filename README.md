@@ -6,6 +6,7 @@
 
 **Технологии и языки с которыми я работаю🪄:**
 * Python
+* PHP,Laravel
 * SQL,MySQL,PostgreSQL
 * HTML,CSS(SCSS)
 * Javascript,NodeJS
